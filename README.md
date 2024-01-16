@@ -1,18 +1,5 @@
-# PA8 and PA9 starter code
-Starter files for UCSD CSE30 PA8 and PA9 Fall 2022.
-
-After you do a git clone, do the following
-
-cd PA8
-
-chmod 0755 runtest
-
-chmod 0755 in/cmd*
-
-Please protect your source code against accidental loss!
-
-Make sure you use git to periodically check in your work
-
-You will edit the file SELVERS.h to use your version of the
-
-assignment files instead of the solution version
+Developed Cipher, a file encryption/decryption program using a variation of the Book Cipher algorithm.
+Implemented algorithm consisting of per-byte bit manipulation and XOR encoding for a secure encryption and
+decryption
+Implemented C and ARM Assembly adaptations of the algorithm on a Raspberry Pi for performance optimization
+and educational purposes
